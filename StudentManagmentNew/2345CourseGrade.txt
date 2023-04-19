@@ -1,0 +1,10 @@
+Year1
+Semister1
+001	A
+Semister2
+D098	B
+EndY1
+Year2
+Semister1
+Semister2
+EndY2

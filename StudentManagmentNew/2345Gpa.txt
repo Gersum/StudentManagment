@@ -1,0 +1,6 @@
+Year1
+Semister1	NaN
+Semister2	NaN
+Year2
+Semister1	0.0
+Semister2	0.0

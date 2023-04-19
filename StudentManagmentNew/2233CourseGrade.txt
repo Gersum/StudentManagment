@@ -1,0 +1,6 @@
+Year1
+Semister1
+OOP101	4
+Semister2
+OOP101	B
+EndY1

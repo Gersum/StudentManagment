@@ -1,0 +1,6 @@
+Year1
+Semister1
+OOP	A
+Semister2
+Database	A
+EndY1

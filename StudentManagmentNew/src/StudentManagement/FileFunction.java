@@ -118,6 +118,7 @@ public class FileFunction extends Function {
 			}
 			
 			output6.close();
+			
 			FileWriter stGpaWriterF =new FileWriter(st.stId+"Gpa.txt",true);
             BufferedWriter stGpaWriterB=new BufferedWriter(stGpaWriterF);
 			PrintWriter stGpaWriter=new PrintWriter(stGpaWriterB);
